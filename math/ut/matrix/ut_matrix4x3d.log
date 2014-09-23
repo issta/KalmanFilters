@@ -1,0 +1,9 @@
+PASSED: Function - Matrix4x3d_Add, Test - Add
+PASSED: Function - Matrix4x3d_Copy, Test - Copy
+PASSED: Function - Matrix4x3d_DivScalar, Test - DivScalar
+PASSED: Function - Matrix4x3d_InitZero, Test - InitZero
+PASSED: Function - Matrix4x3d_MultScalar, Test - MultScalar
+PASSED: Function - Matrix4x3d_MultVec, Test - MultVec
+PASSED: Function - Matrix4x3d_Sub, Test - Sub
+
+PASSED: 7 assertions verified.

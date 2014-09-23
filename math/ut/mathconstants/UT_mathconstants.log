@@ -1,0 +1,10 @@
+PASSED: Function - MTH_PI, Test - cos(MTH_PI) == -1.0
+PASSED: Function - MTH_TWO_PI, Test - cos(MTH_TWO_PI) == 1.0
+PASSED: Function - MTH_HALF_PI, Test - sin(MTH_HALF_PI) == 1.0
+PASSED: Function - MTH_RADS_PER_DEG, Test - (MTH_RADS_PER_DEG*180) == pi
+PASSED: Function - MTH_DEGS_PER_RAD, Test - (MTH_DEGS_PER_RAD*pi) == 180.0
+PASSED: Function - MTH_RADS_PER_ARCSEC, Test - (MTH_RADS_PER_ARCSEC * 3600 * 180) == pi
+PASSED: Function - MTH_ARCSECS_PER_RAD, Test - (MTH_ARCSECS_PER_RAD * pi / 180) == 3600
+PASSED: Function - MTH_SECS_PER_DAY, MTH_DAYS_PER_CENTURY, MTH_SECS_PER_CENTURY, Test - (MTH_SECS_PER_DAY * MTH_DAYS_PER_CENTURY) == MTH_SECS_PER_CENTURY
+
+PASSED: 8 assertions verified.

@@ -1,0 +1,11 @@
+PASSED: Function - Vector6d_Add, Test - Add
+PASSED: Function - Vector6d_Copy, Test - Copy
+PASSED: Function - Vector6d_DivScalar, Test - DivScalar
+PASSED: Function - Vector6d_Dot, Test - Dot
+PASSED: Function - Vector6d_InitZero, Test - InitZero
+PASSED: Function - Vector6d_Magnitude, Test - Magnitude
+PASSED: Function - Vector6d_MultScalar, Test - MultScalar
+PASSED: Function - Vector6d_Normalize, Test - Normalize
+PASSED: Function - Vector6d_Sub, Test - Sub
+
+PASSED: 9 assertions verified.

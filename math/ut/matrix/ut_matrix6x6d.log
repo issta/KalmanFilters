@@ -1,0 +1,12 @@
+PASSED: Function - Matrix6x6d_Add, Test - Add
+PASSED: Function - Matrix6x6d_Copy, Test - Copy
+PASSED: Function - Matrix6x6d_DivScalar, Test - DivScalar
+PASSED: Function - Matrix6x6d_InitIdentity, Test - InitIdentity
+PASSED: Function - Matrix6x6d_InitZero, Test - InitZero
+PASSED: Function - Matrix6x6d_Mult, Test - Mult
+PASSED: Function - Matrix6x6d_MultScalar, Test - MultScalar
+PASSED: Function - Matrix6x6d_Sub, Test - Sub
+PASSED: Function - Matrix6x6d_MultScalar, Test - MultScalar
+PASSED: Function - Matrix6x6d_Transpose, Test - Transpose
+
+PASSED: 10 assertions verified.

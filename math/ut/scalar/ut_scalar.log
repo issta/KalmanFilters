@@ -1,0 +1,30 @@
+PASSED: Function - SCALAR_MAX, Test - SCALAR_MAX( 2,5) == 5
+PASSED: Function - SCALAR_MAX, Test - SCALAR_MAX(-5,5) == 5
+PASSED: Function - SCALAR_MAX, Test - SCALAR_MAX(-6.6,-2.2) == -2.2
+PASSED: Function - SCALAR_MIN, Test - SCALAR_MIN(-10.1,-10.0) == -10.1
+PASSED: Function - SCALAR_MIN, Test - SCALAR_MIN(-.1,.3) == -.1
+PASSED: Function - SCALAR_MIN, Test - SCALAR_MIN(1000.1,1001) == 1000.1
+PASSED: Function - Scalar_Limit(), Test - LimitStatus == LOWER
+PASSED: Function - Scalar_Limit(), Test - LimitValue == -10
+PASSED: Function - Scalar_Limit(), Test - LimitStatus == EQUAL
+PASSED: Function - Scalar_Limit(), Test - LimitValue == -7
+PASSED: Function - Scalar_Limit(), Test - LimitStatus == UPPER
+PASSED: Function - Scalar_Limit(), Test - LimitValue == 5
+PASSED: Function - Scalar_Limit(), Test - LimitStatus == LOWER
+PASSED: Function - Scalar_Limit(), Test - LimitValue == -2
+PASSED: Function - Scalar_Limit(), Test - LimitStatus == EQUAL
+PASSED: Function - Scalar_Limit(), Test - LimitValue == -1.9999
+PASSED: Function - Scalar_Limit(), Test - LimitStatus == UPPER
+PASSED: Function - Scalar_Limit(), Test - LimitValue == 4.5
+PASSED: Function - Scalar_Limit(), Test - LimitStatus == LOWER
+PASSED: Function - Scalar_Limit(), Test - LimitValue == 100
+PASSED: Function - Scalar_Limit(), Test - LimitStatus == EQUAL
+PASSED: Function - Scalar_Limit(), Test - LimitValue == 101
+PASSED: Function - Scalar_Limit(), Test - LimitStatus == UPPER
+PASSED: Function - Scalar_Limit(), Test - LimitValue == 110
+PASSED: Function - Scalar_Limit(), Test - LimitStatus == EQUAL
+PASSED: Function - Scalar_Limit(), Test - LimitValue == 100
+PASSED: Function - Scalar_Limit(), Test - LimitStatus == EQUAL
+PASSED: Function - Scalar_Limit(), Test - LimitValue == 110
+
+PASSED: 28 assertions verified.

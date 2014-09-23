@@ -1,0 +1,11 @@
+PASSED: Function - Vector4d_Add, Test - Add
+PASSED: Function - Vector4d_Copy, Test - Copy
+PASSED: Function - Vector4d_DivScalar, Test - DivScalar
+PASSED: Function - Vector4d_Dot, Test - Dot
+PASSED: Function - Vector4d_InitZero, Test - InitZero
+PASSED: Function - Vector4d_Magnitude, Test - Magnitude
+PASSED: Function - Vector4d_MultScalar, Test - MultScalar
+PASSED: Function - Vector4d_Normalize, Test - Normalize
+PASSED: Function - Vector4d_Sub, Test - Sub
+
+PASSED: 9 assertions verified.

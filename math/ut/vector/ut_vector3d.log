@@ -1,0 +1,13 @@
+PASSED: Function - Vector3d_Add, Test - Add
+PASSED: Function - Vector3d_Copy, Test - Copy
+PASSED: Function - Vector3d_Cross, Test - Cross
+PASSED: Function - Vector3d_DivScalar, Test - DivScalar
+PASSED: Function - Vector3d_Dot, Test - Dot
+PASSED: Function - Vector3d_FromRaDec, Test - FromRaDec
+PASSED: Function - Vector3d_InitZero, Test - InitZero
+PASSED: Function - Vector3d_Magnitude, Test - Magnitude
+PASSED: Function - Vector3d_MultScalar, Test - MultScalar
+PASSED: Function - Vector3d_Normalize, Test - Normalize
+PASSED: Function - Vector3d_Sub, Test - Sub
+
+PASSED: 11 assertions verified.

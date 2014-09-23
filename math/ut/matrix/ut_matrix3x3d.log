@@ -1,0 +1,22 @@
+PASSED: Function - Matrix3x3d_Add, Test - Add
+PASSED: Function - Matrix3x3d_ColVecToMatrix, Test - ColVecToMatrix
+PASSED: Function - Matrix3x3d_Copy, Test - Copy
+PASSED: Function - Matrix3x3d_DivScalar, Test - DivScalar
+PASSED: Function - Matrix3x3d_InitIdentity, Test - InitIdentity
+PASSED: Function - Matrix3x3d_InitZero, Test - InitZero
+PASSED: Function - Matrix3x3d_Mult, Test - Mult
+PASSED: Function - Matrix3x3d_MultScalar, Test - MultScalar
+PASSED: Function - Matrix3x3d_MultVec, Test - MultVec
+PASSED: Function - Matrix3x3d_RowVecToMatrix, Test - RowVecToMatrix
+PASSED: Function - Matrix3x3d_Sub, Test - Sub
+PASSED: Function - Matrix3x3d_Trace, Test - Trace
+PASSED: Function - Matrix3x3d_Transpose, Test - Transpose
+PASSED: Function - Matrix3x3d_Skew, Test - Skew
+PASSED: Function - Matrix3x3d_Invert, Test - Invert1
+PASSED: Function - Matrix3x3d_Invert, Test - Invert2
+PASSED: Function - Matrix3x3d_Invert, Test - Invert3
+PASSED: Function - Matrix3x3d_Triad, Test - Triad1
+PASSED: Function - Matrix3x3d_Triad, Test - Triad2
+PASSED: Function - Matrix3x3d_Triad, Test - Triad3
+
+PASSED: 20 assertions verified.
